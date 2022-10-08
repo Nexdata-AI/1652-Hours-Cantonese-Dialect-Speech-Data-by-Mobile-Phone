@@ -1,8 +1,10 @@
 # 1652-Hours-Cantonese-Dialect-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/54
+
 
 ## Description
 It collects 4,888 speakers from Guangdong Province and is recorded in quiet indoor environment. The recorded content covers 500,000 commonly used spoken sentences, including high-frequency words in weico and daily used expressions. The average number of repetitions is 1.5 and the average sentence length is 12.5 words. Recording devices are mainstream Android phones and iPhones.
+
+For more details, please refer to the link: https://bit.ly/3Sh4am4
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ Cantonese
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
