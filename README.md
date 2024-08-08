@@ -4,7 +4,7 @@
 ## Description
 It collects 4,888 speakers from Guangdong Province and is recorded in quiet indoor environment. The recorded content covers 500,000 commonly used spoken sentences, including high-frequency words in weico and daily used expressions. The average number of repetitions is 1.5 and the average sentence length is 12.5 words. Recording devices are mainstream Android phones and iPhones.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/54?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/54?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
